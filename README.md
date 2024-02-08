@@ -4,6 +4,10 @@ For analysing data dumps on the command line with python
 
 Usage:
 
+To display the hex view the ASCII text for the whole row:
+
+python script_name.py <path_to_binary_file>
+
 To display the hex view with ASCII characters for each byte and the ASCII text for the whole row:
 
 python script_name.py <path_to_binary_file> -c
