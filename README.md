@@ -15,3 +15,4 @@ To display the hex view with ASCII characters for each byte and the ASCII text f
 To limit the output to the first N bytes, with both the per-byte ASCII view and the end-of-row ASCII text:
 
 ```python hex.py <path_to_binary_file> -bytes N -c```
+![alt text](https://raw.githubusercontent.com/em00k/hex-view/main/hex.py.png)https://raw.githubusercontent.com/em00k/hex-view/main/hex.py.png)
